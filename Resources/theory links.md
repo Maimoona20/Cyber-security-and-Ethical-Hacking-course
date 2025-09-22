@@ -1,0 +1,2 @@
+# Links to Repos and other study notes
+- this is a repo for a diff course but i feel it has a pretty solid notes and concepts about basic stuff: [ISC2-CC-Study-Notes](https://github.com/cyberfascinate/ISC2-CC-Study-Material)
